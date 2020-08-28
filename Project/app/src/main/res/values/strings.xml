@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noozama</string>
+    <string name="logo">logo</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="enter_username_here">Enter username here...</string>
+    <string name="enter_password_here">Enter password here...</string>
+    <string name="login">login</string>
+</resources>
