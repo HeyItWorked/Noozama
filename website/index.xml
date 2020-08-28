@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noozama</title>
+    <link>https://brittbarber.github.io/Noozama/</link>
+    <description>Recent content on Noozama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 14:41:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://brittbarber.github.io/Noozama/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://brittbarber.github.io/Noozama/about/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>https://brittbarber.github.io/Noozama/about/</guid>
+      <description>Noozama Vision Statement Noozama will be used as a mobile shopping companion for customers to order items &amp;ndash; normally sold physically over multiple stores or vendors &amp;ndash; over the convenience of the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://brittbarber.github.io/Noozama/features/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>https://brittbarber.github.io/Noozama/features/</guid>
+      <description>Shopping cart - Add items to your shopping cart- View the items currently in your cart - Alter the quantity of each item in your cart         Checkout - Purchase the items in your shopping cart - Apple Pay supported!</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://brittbarber.github.io/Noozama/ourteam/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>https://brittbarber.github.io/Noozama/ourteam/</guid>
+      <description>Britt By doing this project I learned how to read from and develop off of another person’s code.</description>
+    </item>
+    
+    <item>
+      <title>Retrospective</title>
+      <link>https://brittbarber.github.io/Noozama/retrospective/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>https://brittbarber.github.io/Noozama/retrospective/</guid>
+      <description>What went right in the development process?</description>
+    </item>
+    
+  </channel>
+</rss>
